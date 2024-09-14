@@ -1,7 +1,7 @@
 ### My Existence of Github
 
 
-<span style="font-size: 12px;">
+<span style="font-size: 10px;">
 Welcome! Hope you find something useful here! I'm Abhinav. I like to talk about data science, machine learning, product management, growth and marketing, behavioral sciences in B2C and SME fintech, energytech, and consumer tech.
 </span>
 
