@@ -1,6 +1,8 @@
 ### My Existence of Github
 
-Reach out to me [Here](mailto:abhinavlalam@gmail.com)
+Welcome! Hope you find something useful here! I'm Abhinav. I like to talk about data science, machine learning, product management, growth and marketing, behavioral sciences in B2C and SME fintech, energytech, and consumer tech.
+
+You can reach out to me [Here](mailto:abhinavlalam@gmail.com)
 
 List of my Projects 
 
